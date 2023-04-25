@@ -1,4 +1,5 @@
 __pycache__/
+api/user_avatars/*
 db.sqlite3
 migrations/
 venv/
