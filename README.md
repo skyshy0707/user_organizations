@@ -1,6 +1,6 @@
 ## Информация
 
-Проект разработан на версии Django 3.1.7, Django Rest Framework 3.12.4.
+Проект разработан на версии Python 3.8, Django 3.1.7, Django Rest Framework 3.12.4.
 
 Директория загрузки и хранения аватара пользователя: `api/user_avatars/<email пользователя>` 
 
